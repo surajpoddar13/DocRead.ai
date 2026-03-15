@@ -24,16 +24,6 @@ FAISS
 PyMuPDF
 Ollama
 
-Project Structure
-DocRead.ai
-│
-├── app.py
-├── rag.py
-├── vector_store.py
-├── pdf_loader.py
-├── requirements.txt
-└── README.md
-
 Installation
 Clone the repository
 
